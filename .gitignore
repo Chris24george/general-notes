@@ -1,0 +1,10 @@
+# Obsidian cache files
+.obsidian/cache/
+.obsidian/workspace.json
+.obsidian/workspaces/
+
+# Optional: Ignore specific workspace layouts if you don't want them synced
+# .obsidian/workspace-mobile.json
+
+# Mac system files
+.DS_Store
