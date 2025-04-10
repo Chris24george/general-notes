@@ -1,2 +1,0 @@
-4/10/25: Raskolnikov's two types of people
-I am more interested in the sociological implications of this. I really think people do fall into two camps on this. The conventional group tends to be status seeking, rule following, dismissive of those who go beyond the norms of the times. These people, while seemingly unfairly treating the extraordinary group, actually have their legitimate function in society. Without them there would be chaos. But also without the extraordinary group there would be no progress.
