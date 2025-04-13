@@ -1,3 +1,4 @@
+nota bene: if you want to skip to practical advice, start reading at the section titled "Place Yourself"
 
 Imagine you decide to learn Spanish in your free time. Maybe you took a couple of levels of Spanish in school when you were younger. You had hopes that by congugating enough verbs or memorizing vocabulary lists you would be dancing the tango (badly) and seducing everyone around you with your sweet, [insert Spanish-speaking country here] accent. You saw an ad for Duolingo that made you feel bad about yourself for not putting in the work you should have put in. You decide, "okay, that's it. I'm **finally** going to learn Spanish". You download the app. You spend a few months building a streak by translating sentences like "Roberto sits on the platypus". You feel good. You feel like you can finish those lessons quicker and quicker. Then you go to a taquería and realize you don't even know where to start in holding any practical conversation. Okay, no problem. You hire a tutor. You start doing homework every week and starting to speak. But it is painful, it is embarrasing and it hurts your brain. "I don't have time for this crap", you tell yourself. "Maybe if I had a year off I could finally dedicate the time and space I need to learn this". You put it aside, **yet again**. You read some blog posts about how the optimal time to learn a language is when you are in the womb, or better yet, starting at conception. You scroll TikTok and see videos of people rubbing their success in your face. You feel dejected. Luckily, you happen to stumble upon this intersting blog called Christo Notes and see a post titled "On Language Learning"...
 
@@ -20,8 +21,18 @@ success = total\ time\ spent \times quality\ of\ time\ spent
 $$
 There are a lot of factors that go in to determining how much time you spend learning a language, but the biggest factor ***by far*** is how much you enjoy doing it. 
 
-In the beginning stages, enjoyment can come from more mundane activities, like vocabulary flashcards or gamified apps, since most of what you are encountering is new and it feels exciting to embark on the journey. You can easily create a habit for yourself 
+In the beginning stages, enjoyment can come from more mundane activities, like vocabulary flashcards or gamified apps, since most of what you are encountering is new and it feels exciting to embark on the journey. You can easily create a habit for yourself of spending 10-20 minutes per day devoted to the language, and things feel easy and great. 
+
+Then you hit a wall around 4 months in. You don't know what to do. The things you are doing are too easy and starting to get boring. Harder content is way too difficult. You see no way how to get from A to B. You quit. Again.
+
+I will spend quite a bit of time explaining how to specifically overcome this, but it really does boil down to finding ways to make consuming authentic material fun and novel.
 
 ### Place Yourself
 
-Now that we have established what *quality time* and *total time spent* mean, we can move on to some more 
+Now that we have established the importance of *quality time* and *total time spent*, we can move on to some more practical advice. 
+
+Where do you fall?
+
+**Super beginner**: no experience, target language is very different than your native language. Examples include English speaker wanting to learn Japanese or Arabic. Mongolian speaker wanting to learn Igbo. You get the idea...
+
+**Beginner**: 
