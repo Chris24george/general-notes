@@ -1,10 +1,22 @@
 nota bene: if you want to skip to practical advice, start reading at the section titled "Place Yourself"
 
+### Why am I Writing This
+
+Over the years I have had many conversations with people who find out how many languages I speak, and their responses usually fall into one of a handful of buckets. The most common is something along the lines of, "Oh wow! Some people are just made for languages," or, "Oh, I could never, I wish I had started young." Another is, "How do you find the time? Are you spending hours every day?" Usually I try to recommend to them the tools that I have used, and I spend time trying to convince them that with the right method they could learn another language too. However, I have the sense that I fail to adequately convey my ideas in those conversations, and I always feel a bit frustrated with how they go. This essay is my attempt to put all of my thoughts on the subject into one place, so that I can just point people to it in the future.
+
+------------------
+
 Imagine you decide to learn Spanish in your free time. Maybe you took a couple of levels of Spanish in school when you were younger. You had hopes that by congugating enough verbs or memorizing vocabulary lists you would be dancing the tango (badly) and seducing everyone around you with your sweet, [insert Spanish-speaking country here] accent. You saw an ad for Duolingo that made you feel bad about yourself for not putting in the work you should have put in. You decide, "okay, that's it. I'm **finally** going to learn Spanish". You download the app. You spend a few months building a streak by translating sentences like "Roberto sits on the platypus". You feel good. You feel like you can finish those lessons quicker and quicker. Then you go to a taquería and realize you don't even know where to start in holding any practical conversation. Okay, no problem. You hire a tutor. You start doing homework every week and starting to speak. But it is painful, it is embarrasing and it hurts your brain. "I don't have time for this crap", you tell yourself. "Maybe if I had a year off I could finally dedicate the time and space I need to learn this". You put it aside, **yet again**. You read some blog posts about how the optimal time to learn a language is when you are in the womb, or better yet, starting at conception. You scroll TikTok and see videos of people rubbing their success in your face. You feel dejected. Luckily, you happen to stumble upon this intersting blog called Christo Notes and see a post titled "On Language Learning"...
 
 There are many people with many opinions on the "correct" way to learn a language. A lot of them post or make videos on the internet. If you are trying, or have tried in the past, to learn a language, I'm sure you have encountered some of this content. Some of it is narrowly useful, some of it is engagement bait, but none of it really gets to the heart of what really allows someone to be succesful in learning a language. The short answer is that success is approximately proportional to *quality* time spent engaging with the language. Of course, saying that doesn't really help anyone understand what to *do*, so I will try to give a longer, more nuanced perspective that can hopefully be of some use.
 
 First of all, I know what I am talking about. I have learned (to varying degrees of fluency) 9 languages on my own. I am a native English Speaker. I have spoken and understood Russian since childhood, but I was never really fluent until I took the initiative to bring my level to fluency as a teenager. After Russian, I went on to study Spanish, German, French, Greek, Ukrainian, Bulgarian, Swedish, and Italian. That doesn’t mean I’m fluent in all of them. To give you a better idea of my level: in my "weakest" language, Italian, my listening comprehension is around a B1 on the CEFR scale. I can get by as a tourist without much trouble, though I might rely on a few "uhh"s and some pointing. In contrast, I can comfortably hold conversations and engage with complex, native-level content in Russian, German, Greek, Ukrainian, and Spanish. I’m somewhere in between with my French, Bulgarian, and Swedish.
+
+[ALTERNATIVE TO ABOVE]
+I speak from experience. As a native English speaker, I've personally navigated the process of learning nine other languages. While I had childhood exposure to Russian, achieving true fluency required dedicated effort later on. Since then, I've studied Spanish, German, French, Greek, Ukrainian, Bulgarian, Swedish, and Italian. My proficiency isn't uniform across the board. It ranges from a functional tourist level in Italian (around B1 listening comprehension on the CEFR scale) to confidently handling complex conversations and native media in Russian, German, Greek, Ukrainian, and Spanish. My French, Bulgarian, and Swedish sit somewhere in between. It's this experience across different languages, starting points, and fluency levels that informs the perspective I'm sharing here.
+
+[ALTERNATIVE NUMBER TWO TO ABOVE]
+I speak from experience. As a native English speaker, I've learned nine languages. After taking my childhood Russian exposure to fluency, I added Spanish, German, French, Greek, Ukrainian, Bulgarian, Swedish, and Italian. My levels range widely: from functional tourist level in Italian (around B1 listening comprehension on the CEFR scale) to comfortably handling complex conversations and native media in Russian, German, Greek, Ukrainian, and Spanish. My French, Bulgarian, and Swedish sit somewhere in between.
 
 With all of that out of the way, the first and most important thing to realize when learning a language is that it is not really a cognitive problem, it is more of a problem of *organization* and *habit formation*. Most people really can become fluent in a second language with enough *quality time* spent consuming and using the language. The key is to know what constitutes *quality time*.
 ### Quality Time
@@ -26,6 +38,9 @@ In the beginning stages, enjoyment can come from more mundane activities, like v
 Then you hit a wall around 4 months in. You don't know what to do. The things you are doing are too easy and starting to get boring. Harder content is way too difficult. You see no way how to get from A to B. You quit. Again.
 
 I will spend quite a bit of time explaining how to specifically overcome this, but it really does boil down to finding ways to make consuming authentic material fun and novel.
+
+
+## Practical Guide Begins Here
 
 ### Place Yourself
 
