@@ -1,0 +1,18 @@
+
+- The key is quality time spent engaging with the language
+- (time put in) * (quality of time put in) = (success)
+	- If you put a bunch of time in, but it isn't quality time, you will fail.
+	- If your time is high quality, but you don't put enough time in (or abandon somewhere in the intermediate stages), you will fail.
+- Quality time
+	- In the beginning, this is comprehensible input. Many people have covered this, the most notable being Stephen Krashen and Steve Kaufmann.
+	- You want to be aiming for content that is slightly above your level. Not too much higher, but not too much lower either (although if you only have the energy for easier content, yes, CONSUME IT)
+	- Enjoyable content
+- Amount of time
+	- Consistency is key
+		- Develop the habit, every day something no matter what
+	- Push through intermediate stages, that is the hardest part by far
+	- Live and breath the language, Podcasts, YouTube videos, etc
+- Start speaking
+	- Native speaker, no homework, fun conversations on topics that actually interest you
+	- You get the most bang for your buck out of these conversations if you already have a good comprehension base
+- That's really it, you follow this and stay consistent and push through, you will notice that eventually you will be fluent. This could take anywhere from a year to 5 years depending on the language and the time you put in, but it will be something like that. 
