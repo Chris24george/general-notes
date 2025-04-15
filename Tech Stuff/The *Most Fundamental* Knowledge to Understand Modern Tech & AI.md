@@ -9,6 +9,9 @@
 - *Why:* The language of uncertainty, inference, and data modeling.
 - *Core:* Distributions, Bayes’ theorem, expectation, variance, hypothesis testing.
 ### **4. Algorithms & Data Structures**
+
+^a00007
+
 - *Why:* The foundation of efficient problem-solving and software.
 - *Core:* Sorting, searching, trees, graphs, hashing, dynamic programming.
 ### **5. Information Theory**
