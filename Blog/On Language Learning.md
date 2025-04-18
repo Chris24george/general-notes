@@ -33,9 +33,6 @@ Then you hit a wall around 4 months in. You don't know what to do. The things yo
 
 I will spend quite a bit of time explaining how to specifically overcome this, but it really does boil down to finding ways to make consuming authentic material fun and novel.
 
-
-## Practical Guide Begins Here
-
 ### Place Yourself
 
 Now that we have established the importance of *quality time* and *total time spent*, we can move on to some more practical advice. 
@@ -48,10 +45,13 @@ Where do you fall?
 
 **Intermediate**: This is a wide range, and pretty vague. This is where most dedicated organized people end up falling off. If you can read simple sentences and articles and understand them without translating every single word, you are probably here. At the higher end of this range is the ability to listen to podcasts and pretty much follow most things, but easily lose track on super native authentic content that is fast. Maybe you can understand most things that are said to you, but when you watch a TV show or a movie in the language you get lost, but can follow a bit if there are subtitles. 
 
-**Advanced**: At the advanced level, you probably won't get much from reading this essay. So I will just emphasize that at this stage it is all about consuming the maximum amount of enjoyable content. Watch movies, talk to native speakers, write essays, whatever you want to do, just ***keep doing it***. Actually, you will find that this advice isn't that different at a high level from the advice I give to intermediate learners, but the specifics matter a lot for how to actually implement it at each level. Intermediate requires a bit more creativity and guidance, whereas advanced learners have maximum freedom to enjoy whatever they want. 
+**Advanced**: At the advanced level, you probably won't get much from reading this essay. So I will just emphasize that at this stage it is all about consuming the maximum amount of enjoyable content. Watch movies, talk to native speakers, write essays, whatever you want to do, just ***keep doing it***. Actually, you will find that this advice isn't that different at a high level from the advice I give to intermediate learners, but the specifics matter a lot for how to actually implement it at each level. The intermediate stage requires a bit more creativity and guidance, whereas advanced learners have maximum freedom to enjoy whatever they want. 
 
 
 ### In the Beginning was the Word
+
+Now I will guide you through the entire process in a hypothetical way that closely mirrors how I have done things myself, from the super beginner level through upper intermediate/advanced, so that things are a bit more concrete in your mind. I am going to use the example of learning Greek, because I love Greece and the Greek language is one of my favorites. Πάμε, φίλε.
+
 
 
 
