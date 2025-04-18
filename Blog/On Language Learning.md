@@ -50,7 +50,7 @@ Where do you fall?
 
 ### In the Beginning was the Word
 
-Now I will guide you through the entire process in a hypothetical way that closely mirrors how I have done things myself, from the super beginner level through upper intermediate/advanced, so that things are a bit more concrete in your mind. I am going to use the example of learning Greek, because I love Greece and the Greek language is one of my favorites. Πάμε, φίλε.
+Now I will guide you through the entire process in a way that closely mirrors how I have done things myself, from the super beginner level through upper intermediate/advanced, so that things are a bit more concrete in your mind. I am going to use the example of learning Greek, because I love Greece and the Greek language is one of my favorites. Πάμε, φίλε.
 
 
 
