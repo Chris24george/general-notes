@@ -113,9 +113,7 @@ I also disagree with the people who say one shouldn't do any grammar study at al
 
 ### Pronunciation?
 
-You don't have to start speaking with a tutor before you can start to get good at pronunciation in a language. In fact, I often impress tutors with my ability to pronounce the language in my very first lessons with them because I am a bit obsessive about it. If you exert about 10% of the effort I am about to describe, then you will probably get quite good at it too. 
-
-Basically I just talk to myself over and over again. While I am reading, while I am listening, in the shower, before bed, you name it. I mimic people in the audio that I listen to. I repeat words and phrases over and over until I am satisfied with every aspect of it. I really do just repeat myself out loud until the sounds I produce sound close enough to the sounds I am hearing. If you do this for years you will be good enough, trust me, trust the process. 
+You don't have to start speaking with a tutor before you can start to get good at pronunciation in a language. In fact, I often impress tutors with my ability to pronounce the language in my very first lessons with them because I am a bit obsessive about it. If you exert about 10% of the effort I am about to describe, then you will probably get quite good at it too. Basically I just talk to myself over and over again. While I am reading, while I am listening, in the shower, before bed, you name it. I mimic people in the audio that I listen to. I repeat words and phrases over and over until I am satisfied with every aspect of it. I really do just repeat myself out loud until the sounds I produce sound close enough to the sounds I am hearing. If you do this for years you will be good enough, trust me, trust the process. 
 
 ### Age
 
