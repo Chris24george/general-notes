@@ -88,8 +88,18 @@ Do NOT drop the habit. If you reach this stage (which I separate into its own, s
 I believe that this stage is the most difficult of all the stages. The reason is that it is a bit of an illusion. Consider months 1 through 3. Your percentage improvement over time is massive. You are improving somewhere from 200% to 400% every single week in the beginning because your knowledge base is so small. As your knowledge base increases, however, your percentage gains per unit time are going to decrease, until they start to become unnoticeable from week to week. If you learn 50 new words and phrases in a given week, every single week, your percentage of knowledge gained is going to look something like this:
 
 ![[output.png]]
-Obviously this graph is simplified, since progress doesn't move at a constant linear rate, but the principle remains. This is a recipe for burnout and reduced motivation if you don't realize it is all par for the course.
+Obviously this graph is simplified, since progress doesn't move at a constant linear rate, but the principle remains. This is a recipe for burnout and reduced motivation if you don't realize it is all par for the course. 
 
+The key to pushing through this stage is to have it be as fun and motivating as possible. Maybe you could plan a trip to a country where the language you are learning is spoken, maybe you could watch some more movies, more tv shows, more music. Maybe you could start to tackle a classic novel in the language that you have always wanted to read. Anything that you really enjoy to give yourself that motivation to spend doing the main learning activity (reading and listening simultaneously). There are basically two tracks here. The fun stuff, and the serious stuff. They are self-reinforcing. The fun stuff is what gives you the power to want to do the serious stuff, and actually makes the serious stuff a bit more fun. The serious stuff gives you the power to have more fun when doing the fun stuff, and the virtuous cycle continues. 
+
+One of the best motivators for me personally is finding native speakers to speak with, which leads me into the next stage (step 5). 
+### Speak!
+
+There are many opinions among online polyglots about when the right time to begin speaking is. Sometimes the topic can get quite divisive. The correct answer to the question is to begin speaking whenever you feel that you really want to, and when you feel like it will enrich your experience. Cop out, I know, but it's true. It will differ person by person, depending on how outgoing you are, how comfortable you are with making mistakes, what topics interest you, any specific timelines for vacations one might have, etc. For me, this tends to fall right in that intermediate plateau, when my motivation starts to dip, when I have exhausted my internal curiosity and feel that I need some external motivation. 
+
+
+
+A side effect of starting to speak is that you will now have a new axis upon which progress will start to show really quickly, which is motivating. 
 
 ### What About Grammar? Pronunciation?
 
@@ -98,9 +108,6 @@ You might be wondering why I haven't addressed grammar yet. Surely it is importa
 If, when reading and listening, I translate something, but don't really understand how the translation maps to the original, despite translating the phrase, segments of the phrase, and each word individually, I will try to research the grammar of the phrase a bit. I didn't have ChatGPT (or Gemini or Grok etc. etc.) when learning most of my languages, but from now on I believe it is the best way to research grammar questions. The point is to learn just enough about it so that you can understand the phrase that generated the confusion. Once you have that, move on. There is no need to note it down or to spend any time trying to memorize it. You will forget it, and that's okay. Just research it again when it comes up. This way you are learning grammar in a bottom-up fashion rather than a top-down fashion. A lot of the uselessness in language courses comes from the top-down approach, where students end up front-loading a lot of material that is important, but has no practical experience to solidify it in the mind. Our minds are meant to go from practical experience to theory, not the other way around. 
 
 I also disagree with the people who say one shouldn't do any grammar study at all. Learning grammar in the way I described, bottom-up, is actually a great way to solidify some of the knowledge that you are taking in, and helps you see patterns more quickly in the future.
-
-
-### Speak!
 
 ### Age
 TODO: tie in some of the stuff around older people having advantages because of grammar knowledge, it functions as a mnemonic, etc. 
