@@ -83,12 +83,19 @@ You can also start to broaden your content consumption in this stage. Music, pod
 
 ### What About Grammar? Pronunciation?
 
-You might be wondering why I haven't addressed grammar yet. Surely it is important to understand grammar? How can one learn a language without understanding the structure? I agree. It is important to some degree. The reality, however, is that grammar explanations tend not to stick until you have some sense of the language. It is a bit of a catch-22. The way I approach grammar in my language learning is as follows.
+You might be wondering why I haven't addressed grammar yet. Surely it is important to understand grammar? How can one learn a language without understanding the structure? I agree. It is important to some degree. The reality, however, is that grammar explanations tend not to stick until you have some sense of the language. It is a bit of a catch-22. The way I approach grammar in my language learning is as follows:
 
-If, when reading and listening, I translate something, but don't really understand how the translation maps to the original, despite translating the phrase, segments of the phrase, and each word individually, I will try to research the grammar of the phrase a bit. 
+If, when reading and listening, I translate something, but don't really understand how the translation maps to the original, despite translating the phrase, segments of the phrase, and each word individually, I will try to research the grammar of the phrase a bit. I didn't have ChatGPT (or Gemini or Grok etc. etc.) when learning most of my languages, but from now on I believe it is the best way to research grammar questions. The point is to learn just enough about it so that you can understand the phrase that generated the confusion. Once you have that, move on. There is no need to note it down or to spend any time trying to memorize it. You will forget it, and that's okay. Just research it again when it comes up. This way you are learning grammar in a bottom-up fashion rather than a top-down fashion. A lot of the uselessness in language courses comes from the top-down approach, where students end up front-loading a lot of material that is important, but has no practical experience to solidify it in the mind. Our minds are meant to go from practical experience to theory, not the other way around. 
+
+I also disagree with the people who say one shouldn't do any grammar study at all. Learning grammar in the way I described, bottom-up, is actually a great way to solidify some of the knowledge that you are taking in, and helps you see patterns more quickly in the future.
 ### Pushing Through the Plateau
 
+
+
 ### Speak!
+
+### Age
+TODO: tie in some of the stuff around older people having advantages because of grammar knowledge, it functions as a mnemonic, etc. 
 
 
 
