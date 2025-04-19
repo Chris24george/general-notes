@@ -83,9 +83,9 @@ You can also start to broaden your content consumption in this stage. Music, pod
 
 ### What About Grammar? Pronunciation?
 
-You might be wondering why I haven't addressed grammar yet. Surely it is important to understand grammar? How can one learn a language without understanding the structure? 
+You might be wondering why I haven't addressed grammar yet. Surely it is important to understand grammar? How can one learn a language without understanding the structure? I agree. It is important to some degree. The reality, however, is that grammar explanations tend not to stick until you have some sense of the language. It is a bit of a catch-22. The way I approach grammar in my language learning is as follows.
 
-I agree. It is important to some degree. The reality, however, is that grammar explanations tend not to stick until you have some sense of the language. It is a bit of a catch-22. 
+If, when reading and listening, I translate something, but I don't really understand how the translation maps to the original, despite translating the phrase, segments of the phrase, and each word individually, I will try to research the grammar of the phrase a bit. 
 ### Pushing Through the Plateau
 
 ### Speak!
